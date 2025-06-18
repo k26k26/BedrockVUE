@@ -1,0 +1,3 @@
+Application Version: ${bedrock.version}
+Spring Boot Version: ${spring-boot.version}
+启动完成
